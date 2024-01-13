@@ -70,7 +70,7 @@ after all clients register the Server have the ability to start the game.
 
 |Game page|Waiting page|Error page|
 |---|---|---|
-|<img src="games_screens/game.png" height="400" width="1000" />|<img src="games_screens/waiting.png" height="400" width="1000"/>|<img src="games_screens/error.png"  height="400" width="1000"/>|
+|<img src="Squid_Game-master/games_screens/game.png" height="400" width="1000" />|<img src="Squid_Game-master/games_screens/waiting.png" height="400" width="1000"/>|<img src="Squid_Game-master/games_screens/error.png"  height="400" width="1000"/>|
 
 ### Server's windows
 - Start page - Server defined how many players (clients) to create. 
@@ -79,7 +79,7 @@ after all clients register the Server have the ability to start the game.
 
 |Start page|Games log|Setting page|
 |---|---|---|
-|<img src="games_screens/server_start_page.png" height="400" width="1000" />|<img src="games_screens/server_log.png" height="400" width="1000"/>|<img src="games_screens/setting.png"  height="400" width="1000"/>|
+|<img src="Squid_Game-master/games_screens/server_start_page.png" height="400" width="1000" />|<img src="Squid_Game-master/games_screens/server_log.png" height="400" width="1000"/>|<img src="Squid_Game-master/games_screens/setting.png"  height="400" width="1000"/>|
 
 ### Client's windows
 - Results page - The game result, only for players who finished the game successfully.
@@ -88,7 +88,7 @@ after all clients register the Server have the ability to start the game.
 
 |Results page|Registration page|Lose page|
 |---|---|---|
-|<img src="games_screens/results.png" height="400" width="1000" />|<img src="games_screens/registation.png" height="400" width="1000"/>|<img src="games_screens/lose.png"  height="400" width="1000"/>|
+|<img src="Squid_Game-master/games_screens/results.png" height="400" width="1000" />|<img src="Squid_Game-master/games_screens/registation.png" height="400" width="1000"/>|<img src="Squid_Game-master/games_screens/lose.png"  height="400" width="1000"/>|
 
 
 
