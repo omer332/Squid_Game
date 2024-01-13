@@ -1,4 +1,4 @@
-<p align="center"><img src="games_screens/back_waiting.png" height="400" width="800"></p>
+<p align="center"><img src="Squid_Game-master/games_screens/back_waiting.png" height="400" width="800"></p>
 <br/>
 <h1 align="center">Welcome To Squid-Game!</h1>
 
